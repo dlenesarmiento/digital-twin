@@ -1,0 +1,21 @@
+{
+    "full_name": "Diana Lene Sarmiento",
+    "name": "Diane",
+    "current_role": "IT Solutions Manager",
+    "location": "Singapore",
+    "email": "diane.sarmiento@gmail.com",
+    "linkedin": "linkedin.com/in/diane-sarmiento",
+    "specialties": [
+      "AI Engineer",
+      "IT Solutions Manager",
+      "Cloud Architect"
+    ],
+    "years_experience": 22,
+    "education": [
+      {
+        "degree": "Bachelor of Science in Computer Science",
+        "institution": "City College of Manila",
+        "year": "2002"
+      }
+    ]
+  }
