@@ -17,7 +17,7 @@ export default function Home() {
           </div>
 
           <footer className="mt-8 text-center text-sm text-gray-500">
-            <p>The frontend is using is a Next.js application distributed globally by Amazon CloudFront. It communicates with a FastAPI backend running on AWS Lambda and exposed via Amazon API Gateway. The core AI is powered by Amazon Bedrock, with conversation memory persisted in Amazon S3. The entire infrastructure is defined as code with Terraform and deployed automatically through GitHub Actions.</p>
+            <p>Inspired by Ed Donner "AI in Production" Udemy course. Stack: A serverless AWS app with a CloudFront/S3 frontend, API Gateway/Lambda backend, and Bedrock for AI. DevOps: Infrastructure is managed by Terraform, deployed via GitHub Actions, with remote state locking in S3/DynamoDB.</p>
           </footer>
         </div>
       </div>
