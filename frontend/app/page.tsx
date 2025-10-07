@@ -17,7 +17,7 @@ export default function Home() {
           </div>
 
           <footer className="mt-8 text-center text-sm text-gray-500">
-            <p>Inspired by Ed Donner "AI in Production" Udemy course. Stack: A serverless AWS app with a CloudFront/S3 frontend, API Gateway/Lambda backend, and Bedrock for AI. DevOps: Infrastructure is managed by Terraform, deployed via GitHub Actions, with remote state locking in S3/DynamoDB.</p>
+            <p>Inspired by Ed Donner-AI in Production Udemy course. Stack: A serverless AWS app with a CloudFront/S3 frontend, API Gateway/Lambda backend, and Bedrock for AI. DevOps: Infrastructure is managed by Terraform, deployed via GitHub Actions, with remote state locking in S3/DynamoDB.</p>
           </footer>
         </div>
       </div>
